@@ -61,4 +61,4 @@ async def jood(ctx, member):
     #     await ctx.send(f"{mem}")
 
 
-client.run('NzgyNjQ1NzIzNDUxNzUyNDU4.X8PNoQ.orn-fMZ_-oiJGoegsVVMykHhrcE')
+client.run('NdgfgfgregsadfgrSFsgdfhhjyhjfyju-fghsg')
